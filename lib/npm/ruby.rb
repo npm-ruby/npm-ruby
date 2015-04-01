@@ -2,6 +2,6 @@ require "npm/ruby/version"
 
 module Npm
   module Ruby
-    # Your code goes here...
+    puts "This library was released on the 1st April, 2015."
   end
 end
